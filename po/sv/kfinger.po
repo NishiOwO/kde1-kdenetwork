@@ -5,6 +5,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 1999-04-15 03:01+0200\n"
 "Last-Translator: Karl Backström <backstrom@kde.org>\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 
 #: kfinger.C:30
 msgid "F&inger Now"
