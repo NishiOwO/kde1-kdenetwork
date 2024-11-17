@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Hans Petter Bieker <zerium@webindex.no>\n"
 "Language-Team: no <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO_8859-1\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: kmcomposewin.cpp:1516 kmmainwin.cpp:377 kpgp.cpp:546
