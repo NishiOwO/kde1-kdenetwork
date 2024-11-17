@@ -4,6 +4,7 @@ msgstr ""
 "POT-Creation-Date: 1999-03-05 02:18+0100\n"
 "PO-Revision-Date: 1999-01-20 21:55+MET\n"
 "Last-Translator: Thomas Diehl <th_diehl@csi.com>\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Translator: Stephan Kulow <coolo@kde.org>\n"
 
 #: FilterRuleEditor.cpp:29
