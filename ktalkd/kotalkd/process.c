@@ -37,7 +37,7 @@ static int ctl_sockt;
 void open_local_socket(char * hostname)
 {
     struct hostent *hp;
-    ksize_t length;
+    KSIZE_T length;
     
     /* find the server's port */
     struct servent * sp = getservbyname("ntalk", "udp");

@@ -129,7 +129,7 @@ int TalkConnection::open_socket (struct sockaddr_in *addr, int type)
     if (newSocket <= 0)
         p_error ("Unable to open a new socket!");
 
-    ksize_t length = sizeof (*addr);
+    KSIZE_T length = sizeof (*addr);
     if (bind (newSocket, (struct sockaddr *) addr, length) != 0) {
         ::close (newSocket);
         p_error ("Error binding socket!");
@@ -186,7 +186,7 @@ struct in_addr TalkConnection::getReplyAddr (struct in_addr destination) {
     // by getsockname to the local machine address used to reach the daemon.
     // If it doesn't work (e.g. on SunOS and Solaris), the default machine
     // address is used instead.
-    ksize_t length = sizeof (daemon);
+    KSIZE_T length = sizeof (daemon);
     if ((testsock = socket (AF_INET, SOCK_DGRAM, 0)) >= 0 &&
         bind (testsock, (struct sockaddr *) &client, sizeof (client)) == 0 &&
         ::connect (testsock, (struct sockaddr *) &daemon,
