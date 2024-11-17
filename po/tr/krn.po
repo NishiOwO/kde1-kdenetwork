@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Mehtap AYTAÇ <bbm666@hun.edu.tr>\n"
 "Language-Team: Hacettepe Linux Users Group <hacettepe@linux.org.tr>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: ISO 8859-9\n"
 
 #: main.cpp:219 main.cpp:232 main.cpp:246 main.cpp:264 main.cpp:279
