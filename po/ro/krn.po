@@ -8,6 +8,7 @@ msgstr ""
 "POT-Creation-Date: 1999-01-18 02:04+0100\n"
 "PO-Revision-Date: 1998-01-24 14:20 +0100\n"
 "Last-Translator: Oliver Hensel &l\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 
 #: main.cpp:219 main.cpp:232 main.cpp:246 main.cpp:264 main.cpp:279
 msgid "KRN-Missing Configuration info"
