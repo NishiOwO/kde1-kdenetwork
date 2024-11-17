@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "POT-Creation-Date: 1999-01-23 02:09+0100\n"
-"Content-Type: text/plain; charset=\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Date: 1997-10-28 22:45:13+0100\n"
 "From: Bertrand Leconte,,, <leconteb@arthur>\n"
 "Xgettext-Options: -C -k_\n"
