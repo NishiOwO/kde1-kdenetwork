@@ -4,6 +4,7 @@ msgstr ""
 "POT-Creation-Date: 1998-07-08 16:36+0000\n"
 "PO-Revision-Date: 1998-07-25 12:00-0300\n"
 "Last-Translator: Elvis Pfützenreuter <epx@netville.com.br>\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 
 #: ktalkdlg.cpp:55
 msgid "Message from talk demon at "
