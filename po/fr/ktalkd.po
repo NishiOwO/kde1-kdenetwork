@@ -7,6 +7,7 @@ msgstr ""
 "Project-Id-Version: ktalkd \n"
 "POT-Creation-Date: 1998-07-08 16:36+0000\n"
 "PO-Revision-Date: 1998-03-25 01:05+0000\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Last-Translator: David Faure <david.faure@ifhamy.insa-lyon.fr>\n"
 
 #: ktalkdlg.cpp:55
