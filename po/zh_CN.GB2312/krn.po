@@ -8,6 +8,7 @@ msgstr ""
 "POT-Creation-Date: 1999-01-18 02:04+0100\n"
 "PO-Revision-Date: 1998-06-12 08:33 MET DST\n"
 "Last-Translator: Wang Jian <lark@linux.ustc.edu.cn>\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
 "Language-Team: zh_CN ( gb2312)\n"
 
 #: main.cpp:219 main.cpp:232 main.cpp:246 main.cpp:264 main.cpp:279
